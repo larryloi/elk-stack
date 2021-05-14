@@ -1,0 +1,4 @@
+IMAGE=kibana
+TAG=7.6.2
+REPO_PATH=docker-repos:8123/victoria/
+ELK_VERSION=7.6.2
